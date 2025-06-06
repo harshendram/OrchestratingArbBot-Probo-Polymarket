@@ -1,0 +1,31 @@
+{
+  "name": "arb-bot",
+  "module": "index.ts",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Arbitrage bot between Probo and Polymarket",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "jest",
+    "cli": "ts-node cli.ts",
+    "check": "ts-node cli.ts check",
+    "build": "tsc",
+    "lint": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^20.17.57"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.14",
+    "axios": "^1.9.0",
+    "commander": "^11.1.0",
+    "dotenv": "^16.5.0",
+    "ethers": "^5.8.0",
+    "jest": "^29.7.0",
+    "ts-node": "^10.9.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
