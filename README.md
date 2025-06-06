@@ -15,7 +15,7 @@
 ## 🚀 Buy My Bot
 
 **Want the production-ready, enhanced version of this arbitrage bot with additional features and optimizations?**  
-👉 [Click here to purchase the full version](#) 👈
+👉 [Click here to purchase the full version](https://shivalord2.gumroad.com/l/noRiskTradingBot) 👈
 
 ## 📊 Arbitrage Betting: An Introduction
 
