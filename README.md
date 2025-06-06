@@ -179,19 +179,18 @@ bun test
 
 ## 📱 Demo
 
-<div align="center">
-  <h3>Market Depth Analysis</h3>
-  <p><em>Screenshot will be placed here</em></p>
-
-  <h3>Arbitrage Opportunity Detection</h3>
-  <p><em>Screenshot will be placed here</em></p>
-
-  <h3>Trade Execution</h3>
-  <p><em>Screenshot will be placed here</em></p>
-
-  <h3>Profit Tracking</h3>
-  <p><em>Screenshot will be placed here</em></p>
-</div>
+<table>
+  <tr>
+    <td><img src="./utils/assets/Screenshot 2025-06-06 130925.png" width="250"/></td>
+    <td><img src="./utils/assets/Screenshot 2025-06-06 130220.png" width="250"/></td>
+    <td><img src="./utils/assets/Screenshot 2025-06-06 130206.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="./utils/assets/Screenshot 2025-06-06 130120.png" width="250"/></td>
+    <td><img src="./utils/assets/Screenshot 2025-06-06 130016.png" width="250"/></td>
+    <td><img src="./utils/assets/Screenshot 2025-06-06 114830.png" width="250"/></td>
+  </tr>
+</table>
 
 ## 📊 Performance
 
