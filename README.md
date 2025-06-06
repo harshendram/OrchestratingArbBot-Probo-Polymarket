@@ -24,7 +24,7 @@ Arbitrage betting is a risk-free strategy that takes advantage of price discrepa
 ## 🏗️ Architecture & Logic Flow
 
 <div align="center">
-  <img src="./utils/assets/image.png" alt="Architecture Diagram" width="80%">
+  <img src="./utils/assets/archarb.png" alt="Architecture Diagram" width="80%">
   <p><em>Bot Architecture: How components interact to execute arbitrage</em></p>
 </div>
 
